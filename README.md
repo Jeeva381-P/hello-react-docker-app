@@ -1,1 +1,1 @@
-# hello-react-docker-app
+Dockerizing a basic react hello web application.
